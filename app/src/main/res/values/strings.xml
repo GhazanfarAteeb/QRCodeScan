@@ -1,0 +1,10 @@
+<resources>
+	<string name="app_name">QRCodeScan</string>
+	<string name="results">Results</string>
+	<string name="scan">Scan</string>
+	<string name="startup_line">Press Scan to scan the Barcode/QR Code</string>
+	<string name="id">ID:</string>
+	<string name="name">Name:</string>
+	<string name="salary">Salary:</string>
+	<string name="reset">reset</string>
+</resources>
